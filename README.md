@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mahindra Jayavaram </h1>
+<!-- ### Hi there 👋
+ -->
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vikash Patel </h1>
 <h3 align="center"> MERN Stack Web Developer</h3>
 
 <!-- <div align="center" ><img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" /></div> -->
