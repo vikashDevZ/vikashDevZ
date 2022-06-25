@@ -60,6 +60,8 @@
 <br/>
 
 <div align="center">
+ 
+ ## ⚙️ Tech Stack
 
 <img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
 <img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
