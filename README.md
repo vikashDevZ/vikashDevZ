@@ -75,7 +75,7 @@
 <img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
 <img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
 <img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
-<img src="https://cdn.dribbble.com/users/827583/screenshots/3533493/media/0a79967f4117d8d12e0f5c16328c06b1.png?compress=1&resize=800x600&vertical=top" height="40" width="80">
+<img src="https://user-images.githubusercontent.com/2771251/132473388-9f0ff8d9-7bbb-47e5-b45f-9634d86a0dff.png" height="40" width="80">
 <!-- <img src="https://www.clipartmax.com/png/middle/146-1469802_logo-logo-docker.png" height="40" width="80"> -->
  
 <!--<img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">--!>
