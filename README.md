@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m a Full Stack Developer
+<!-- - 🌱 I’m a Full Stack Developer -->
 - ❤️ I love writing JavaScript, and building projects
 - 👯 Looking forward to contribute on Software Development
 - 🤔 All of my projects are available at [_**My Github Repositories**_](https://github.com/FreakillGod?tab=repositories)
