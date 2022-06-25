@@ -23,14 +23,16 @@
 - 🤔 All of my projects are available at [_**My Github Repositories**_](https://github.com/FreakillGod?tab=repositories)
 - 💌 Reach out me at [_**pvickey663@gmail.com**_](mailto:pvickey663@gmail.com)
 - ⚙️ Technical Skills : Javascript, MongoDB, Node JS, React, Redux, React Native, Firebase, Docker, Heroku, SASS
-- <!-- - 👨🏻‍🎓 Check out My Resume at[ _**Mahindra-Jyavaram-Resume**_](https://drive.google.com/file/d/1-s4Ift310i1tbbSR2mD0EzYBvDj9RmxO/view?usp=sharing) -->
+<!-- - 👨🏻‍🎓 Check out My Resume at[ _**Mahindra-Jyavaram-Resume**_](https://drive.google.com/file/d/1-s4Ift310i1tbbSR2mD0EzYBvDj9RmxO/view?usp=sharing) -->
 <!-- - 👤 Check out My Portfolio at [**Mahindra-Jayavaram-Portfolio**](https://mahindra-portfolio-main-mahindra.vercel.app/) -->
 
+##
 <div align="center">
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  </div>
+ <br />
 <!-- <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 <!-- <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
