@@ -75,6 +75,7 @@
 <img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
 <img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
 <img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
+<img src="https://i.imgur.com/PgdzSa8.png" height="40" width="40">
 <!--<img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">--!>
 <img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
 <!--<img src="https://i.imgur.com/4ryo0Qh.png" height="40" width="40">--!>
