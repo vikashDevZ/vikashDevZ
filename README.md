@@ -36,7 +36,7 @@
 
 
 ## 📊 My Github Stats
-<img align="right" width=100% src = "https://github-readme-stats.vercel.app/api?username=FreakillGod)](https://github.com/FreakillGod/github-readme-stats"/>
+<img align="right" width=100% src = "https://github-readme-stats.vercel.app/api?username=FreakillGod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <!-- [![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreakillGod)](https://github.com/FreakillGod/github-readme-stats) -->
 
 
