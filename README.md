@@ -26,22 +26,24 @@
 <!-- - 👨🏻‍🎓 Check out My Resume at[ _**Mahindra-Jyavaram-Resume**_](https://drive.google.com/file/d/1-s4Ift310i1tbbSR2mD0EzYBvDj9RmxO/view?usp=sharing) -->
 <!-- - 👤 Check out My Portfolio at [**Mahindra-Jayavaram-Portfolio**](https://mahindra-portfolio-main-mahindra.vercel.app/) -->
 
-##
+
 <div align="center">
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  </div>
+ ##
  <br />
 <!-- <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 <!-- <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
 
 <div align="center">
+ 
+## 📊 My Github Stats
 
 <img width=60% src = "https://camo.githubusercontent.com/a75aeca88118ac02143a575749c096f69f0111accad8ba45ddf7fc586ea7108c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676972656573686b756d617265646967612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" />
 
-## 📊 My Github Stats
 <img align="center" width=60% src = "https://github-readme-stats.vercel.app/api?username=FreakillGod&&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=daf7dc&bg_color=101011"/>
 </div>
 
