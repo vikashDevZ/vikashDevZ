@@ -1,12 +1,12 @@
 <!-- ### Hi there 👋
  -->
    
-<!-- <h1 align="center">Hey there 👋, I am Vikash </h1> -->
-<h1 align="center">
+<h1 align="center">Hey there 👋, I am Vikash </h1>
+<!-- <h1 align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E9E3D&lines=Hey+I'am+vikash)
 
-</h1>
+</h1> -->
 <h3 align="center"> Full Stack Web Developer</h3>
 
 <!-- <div align="center" ><img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" /></div> -->
