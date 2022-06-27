@@ -2,7 +2,7 @@
  -->
    
 <h1 align="center">Hey there 👋, I am Vikash </h1>
-<h1 align="center">  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E9E3D&lines=Hey+I'am+vikash)</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E9E3D&lines=Hey+I'am+vikash)
 
 <h3 align="center"> Full Stack Web Developer</h3>
 
