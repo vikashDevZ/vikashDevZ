@@ -44,9 +44,9 @@
 ## 📊 My Github Stats
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FreakillGod&label=Profile%20views&color=129e00&style=plastic" alt="Vikash dev" /> </p>
-<br>
-
+<a href="https://github.com/FreakillGod/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Srivastava's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srivastava02aman&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
 
 <br />
 <br />
