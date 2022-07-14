@@ -52,14 +52,14 @@
 <br>
 
 <a href="https://github.com/FreakillGod/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Srivastava's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FreakillGod&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FreakillGod&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreakillGod&layout=compact)
 
-<img width=40% src = "https://camo.githubusercontent.com/a75aeca88118ac02143a575749c096f69f0111accad8ba45ddf7fc586ea7108c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676972656573686b756d617265646967612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" />
 
 <br />
 <br />
