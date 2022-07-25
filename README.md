@@ -26,7 +26,7 @@
 <!-- - 🌱 I’m a Full Stack Developer -->
 - ❤️ I love writing JavaScript, and building projects
 - 👯 Looking forward to contribute on Software Development
-- 🤔 All of my projects are available at [_**My Github Repositories**_](https://github.com/FreakillGod?tab=repositories)
+- 🤔 Know more about me [_**My Portfolio**_](https://portfolio-vikash.vercel.app/)
 - 💌 Reach out me at [_**pvickey663@gmail.com**_](mailto:pvickey663@gmail.com)
 <!-- - ⚙️ Technical Skills : Javascript, MongoDB, Node JS, React, Redux, React Native, Firebase, Docker, Heroku, SASS -->
 <!-- - 👨🏻‍🎓 Check out My Resume at[ _**Mahindra-Jyavaram-Resume**_](https://drive.google.com/file/d/1-s4Ift310i1tbbSR2mD0EzYBvDj9RmxO/view?usp=sharing) -->
