@@ -98,15 +98,19 @@
 <img src="https://i.imgur.com/bbawh2F.png" height="40" width="40">
 <img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
 <img src="https://i.imgur.com/4ryo0Qh.png" height="40" width="40">
+ 
 
  <br/>
 <img src="https://user-images.githubusercontent.com/2771251/132473388-9f0ff8d9-7bbb-47e5-b45f-9634d86a0dff.png" height="60" width="60">
+ 
+ 
+ 
 </div>
 
 
 <br />
 
-
+<img src="https://raw.githubusercontent.com/FreakillGod/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" height="60" width="60">
 
 <div align="center">
 
