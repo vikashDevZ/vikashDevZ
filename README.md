@@ -109,9 +109,12 @@
 
 
 <br />
+ 
 
-<img src="https://raw.githubusercontent.com/FreakillGod/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/FreakillGod/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" height="40" width="40">
 
+<img src="https://raw.githubusercontent.com/FreakillGod/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="40">
+ 
 <div align="center">
 
 ## 🎀 Favourite Stack
