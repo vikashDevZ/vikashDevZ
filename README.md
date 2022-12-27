@@ -24,7 +24,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- - 🌱 I’m a Full Stack Developer -->
-- ❤️ I love writing JavaScript, and building projects
+- ❤️ I love building JavaScript projects
 - 👯 Looking forward to contribute on Software Development
 <!-- -🤔 Know more about me [_**My Portfolio**_](https://portfolio-vikash.vercel.app/)-->
 - 💌 Reach out me at [_**pvickey663@gmail.com**_](mailto:pvickey663@gmail.com)
