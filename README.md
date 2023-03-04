@@ -89,7 +89,7 @@
 <img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
 <br />
 <img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
-<img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
+<!-- <img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40"> -->
 <img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
  
 <img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
