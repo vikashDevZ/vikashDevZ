@@ -51,14 +51,14 @@
 
 <br>
 
-<a href="https://github.com/FreakillGod/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FreakillGod&theme=react&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/vikashDevZ/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashDevZ&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreakillGod&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashDevZ&layout=compact)
 
 
 <br />
@@ -68,7 +68,7 @@
 </div> -->
 
 
-<!-- [![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreakillGod)](https://github.com/FreakillGod/github-readme-stats) -->
+<!-- [![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashDevZ)](https://github.com/vikashDevZ/github-readme-stats) -->
 
 
 
