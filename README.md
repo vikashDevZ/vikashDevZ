@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m a Software Developer
+- 🌱 Software Developer since 2020
 - ❤️ I love building JavaScript projects
 - 👯 Looking forward to contribute on Software Development
 - 🤔 Know more about me [_**My Portfolio**_](https://portfolio-vikash.vercel.app/)
