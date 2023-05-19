@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🌱 I’m a Full Stack Developer -->
+- 🌱 I’m a Software Developer
 - ❤️ I love building JavaScript projects
 - 👯 Looking forward to contribute on Software Development
 - 🤔 Know more about me [_**My Portfolio**_](https://portfolio-vikash.vercel.app/)
