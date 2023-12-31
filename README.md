@@ -24,11 +24,11 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 Software Developer since 2021
-- ❤️ I love building JavaScript projects
-- 👯 Looking forward to contribute on Software Development
-- 🤔 Know more about me [_**My Portfolio**_](https://portfolio-vikash.vercel.app/)
+- ❤️ I love building Complex projects
+- 👯 Looking forward to contributing to Open source Software Development
+- 🤔 Know more about me [_**My Portfolio**_](https://portfolio-vikash.vercel.app/) (outdated*)
 - 💌 Reach out me at [_**pvickey663@gmail.com**_](mailto:pvickey663@gmail.com)
-<!-- - ⚙️ Technical Skills : Javascript, MongoDB, Node JS, React, Redux, React Native, Firebase, Docker, Heroku, SASS -->
+<!-- - ⚙️ Technical Skills: Javascript, MongoDB, Node JS, React, Redux, React Native, Firebase, Docker, Heroku, SASS -->
 <!-- - 👨🏻‍🎓 Check out My Resume at[ _**Mahindra-Jyavaram-Resume**_](https://drive.google.com/file/d/1-s4Ift310i1tbbSR2mD0EzYBvDj9RmxO/view?usp=sharing) -->
 <!-- - 👤 Check out My Portfolio at [**Mahindra-Jayavaram-Portfolio**](https://mahindra-portfolio-main-mahindra.vercel.app/) -->
 
